@@ -6,7 +6,7 @@
 
 I build clean, scalable iOS applications with modern architectures.
 
-### 👨🏻‍💻 About Me
+### 💻 About Me
 - 🔭 **Currently building:** A comprehensive task and habit tracking app with a robust **Offline-First** architecture.
 - 🌱 **Focus areas:** SwiftUI, SwiftData, MVVM, and clean code practices.
 - 🤝 **Open to:** Collaborations on mobile app architectures, UI/UX design, and open-source iOS projects.
